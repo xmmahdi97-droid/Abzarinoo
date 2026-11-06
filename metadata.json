@@ -1,0 +1,6 @@
+{
+  "name": "DARK MIND | ذهن تاریک",
+  "description": "بازی فکری دوبعدی جدول کلمات فارسی و حل معما با طراحی دارک پریمیوم، ۵۰ مرحله واقعی، صدای سنتز شده و قابلیت نصب روی اندروید",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

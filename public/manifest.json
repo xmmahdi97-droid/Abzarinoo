@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "DARK MIND | ذهن تاریک",
+  "short_name": "DARK MIND",
+  "description": "بازی فکری جدول کلمات فارسی و معما با طراحی دارک پریمیوم",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#070a13",
+  "background_color": "#070a13",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
